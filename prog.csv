@@ -1,6 +1,4 @@
 ﻿#TAGS,Name In Repo (or git url),Program Description
-, ,
-,,
 ,x11-libs/libX11,
 ,x11-base/xorg-server,
 ,x11-libs/libXrandr,
